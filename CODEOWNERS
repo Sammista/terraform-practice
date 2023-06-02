@@ -1,0 +1,4 @@
+#Following instructions from https://github.blog/2017-07-06-introducing-code-owners/
+# Adding Andy and Michelle as codeowners to all files.
+*       @AndyZajt
+*       @MichelleEMorgan
